@@ -10,6 +10,6 @@
 
 <---------------------------------------------------------------------------------------------------------------------------->
 
-[Visita mi perfil en Git  ](https://github.com/diegolentz)https://github.com/diegolentz)
+[Visita mi perfil en Git  ](https://github.com/diegolentz)
 <br>
 <sub>*Saludos!*</sub>
